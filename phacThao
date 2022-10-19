@@ -1,0 +1,62 @@
+hàng 1:
+	hàng trên cùng
+		2 cột
+			cột trái: 1 menu
+			cột phải: 1 menu
+	hàng giữa
+		1 banner
+	hàng cuối
+		1 menu
+
+hàng 2:
+	2 cột
+		cột trái:
+			hàng 1: 
+				slide
+			hàng 2: Mới cập nhật
+				3 hàng giống nhau
+					1 hàng:
+						2 cột
+							cột trái 
+								2 cột
+							cột phải
+								2 cột
+
+	        hàng 3: tin tức
+				2 hàng
+					hàng 1:
+						2 cột
+							cột trái
+
+							cột phải
+								4 hàng giống nhau
+									1 hàng: 
+										cột trái
+
+										cột phải
+					hàng 2:
+						2 cột
+							cột trái
+								2 cột
+							cột phải
+
+
+			hàng 4: tuyển sinh giống tin tức không có hàng cuối
+
+			hàng 5: đào tạo
+                         6 item (không dùng bootstrap)
+
+			hàng 6: thư viện ảnh
+
+
+			hàng 6: thư viện ảnh
+
+
+        cột phải:
+
+        
+hàng 3: footer
+	2 cột
+		cột trái
+			
+		cột phải
